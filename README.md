@@ -1,35 +1,6 @@
-# Hi Welcome to my github profile! 👋
+# Hi Welcome to my Github profile! 👋
 
 Although it has nothing much 🙃
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-[chawinkn](https://chawinkn.repl.co/)
+![chawinkn GitHub stats](https://github-readme-stats.vercel.app/api?username=chawinkn&show_icons=true&theme=dark) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chawinkn\&layout=compact&theme=dark)
